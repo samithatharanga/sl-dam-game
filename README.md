@@ -38,7 +38,7 @@ Yes. Crowned pieces (**Kings**) move diagonally forward and backward across any 
 
 ## Screenshots
 
-![Sri Lankan Dam Game Board](screenshots/screenshot-board.png)
+![Sri Lankan Dam Game Board]([screenshots/screenshot-board.png)](https://github.com/samithatharanga/sl-dam-game/blob/main/screenshot-board.png)
 
 ---
 
